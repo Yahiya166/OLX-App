@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OLX-App/static/css/main.9ad253d7.chunk.css",
+    "main.js": "/OLX-App/static/js/main.7d14c898.chunk.js",
+    "main.js.map": "/OLX-App/static/js/main.7d14c898.chunk.js.map",
+    "runtime-main.js": "/OLX-App/static/js/runtime-main.823f7b71.js",
+    "runtime-main.js.map": "/OLX-App/static/js/runtime-main.823f7b71.js.map",
+    "static/js/2.f4991f3d.chunk.js": "/OLX-App/static/js/2.f4991f3d.chunk.js",
+    "static/js/2.f4991f3d.chunk.js.map": "/OLX-App/static/js/2.f4991f3d.chunk.js.map",
+    "static/js/3.5f6c9ee9.chunk.js": "/OLX-App/static/js/3.5f6c9ee9.chunk.js",
+    "static/js/3.5f6c9ee9.chunk.js.map": "/OLX-App/static/js/3.5f6c9ee9.chunk.js.map",
+    "index.html": "/OLX-App/index.html",
+    "static/css/main.9ad253d7.chunk.css.map": "/OLX-App/static/css/main.9ad253d7.chunk.css.map",
+    "static/js/2.f4991f3d.chunk.js.LICENSE.txt": "/OLX-App/static/js/2.f4991f3d.chunk.js.LICENSE.txt",
+    "static/media/LOGOO.d64dbbf5.jpg": "/OLX-App/static/media/LOGOO.d64dbbf5.jpg",
+    "static/media/logo.a4027a96.webp": "/OLX-App/static/media/logo.a4027a96.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.823f7b71.js",
+    "static/js/2.f4991f3d.chunk.js",
+    "static/css/main.9ad253d7.chunk.css",
+    "static/js/main.7d14c898.chunk.js"
+  ]
+}
