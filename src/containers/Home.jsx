@@ -26,6 +26,7 @@ class Home extends React.Component{
              cover kr longa. </p>
              <p className="text2"> Or sir muhe time nhi mila isi liye me ne firebase database connect nhi ki. </p>
              <h1 className="Name "> My Name Is M.YAHIYA ASIF </h1>
+             <h1 className="Name "> One More time soory sir </h1>
         </div>
 
 
